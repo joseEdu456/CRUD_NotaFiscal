@@ -2,8 +2,8 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
-/.idea.ApiNotaFiscal.iml
 /projectSettingsUpdater.xml
+/.idea.ApiNotaFiscal.iml
 /modules.xml
 /contentModel.xml
 # Editor-based HTTP Client requests
@@ -11,5 +11,3 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-/bin/
-/obj/

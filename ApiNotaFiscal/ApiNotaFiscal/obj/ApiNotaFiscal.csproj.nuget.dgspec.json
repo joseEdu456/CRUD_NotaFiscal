@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\Curso_DesenvolvedorIO\\API ASP.NET\\ApiNotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\CRUD_NotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\Curso_DesenvolvedorIO\\API ASP.NET\\ApiNotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal.csproj": {
+    "C:\\Users\\Usuario\\Documents\\CRUD_NotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Curso_DesenvolvedorIO\\API ASP.NET\\ApiNotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\CRUD_NotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal.csproj",
         "projectName": "ApiNotaFiscal",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Curso_DesenvolvedorIO\\API ASP.NET\\ApiNotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\CRUD_NotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Curso_DesenvolvedorIO\\API ASP.NET\\ApiNotaFiscal\\ApiNotaFiscal\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\CRUD_NotaFiscal\\ApiNotaFiscal\\ApiNotaFiscal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
