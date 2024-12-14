@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiNotaFiscal", "ApiNotaFiscal\ApiNotaFiscal.csproj", "{4B59B80E-3F73-4708-9D6B-1105D0DE3144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B59B80E-3F73-4708-9D6B-1105D0DE3144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B59B80E-3F73-4708-9D6B-1105D0DE3144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B59B80E-3F73-4708-9D6B-1105D0DE3144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B59B80E-3F73-4708-9D6B-1105D0DE3144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
