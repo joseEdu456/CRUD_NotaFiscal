@@ -14,6 +14,7 @@ Suas funcionalidades são: <br>
 
 Tecnologias Utilizadas: <br>
 <ul>
+  <li>.NET 8</li>
   <li>ASP.NET Core para criação da API REST</li>
   <li>Entity Framework Core para persistência de dados</li>
   <li>Swagger para documentação interativa dos endpoints</li>
